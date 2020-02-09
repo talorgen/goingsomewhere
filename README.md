@@ -1,0 +1,2 @@
+# goingsomewhere
+My go playground
